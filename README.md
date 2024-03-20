@@ -54,7 +54,3 @@ Special thanks to the developers and contributors of Wenet and knn-transformers 
   keywords={Codes;Signal processing;Natural language processing;Acoustics;Speech processing;Task analysis;Automatic speech recognition;speech recognition;CTC;retrieval-augmented method;datastore construction},
   doi={10.1109/ICASSP48485.2024.10447075}}
 ``` 
-
-## License
-Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
-Any commercial use should get formal permission first.
