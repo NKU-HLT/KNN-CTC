@@ -1,0 +1,11 @@
+exp
+rubbish
+debug*
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md 
+CPPLINT.cfg
+myrun.sh
+rnnt*
+data
+datastore
+__pycache__
